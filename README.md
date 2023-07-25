@@ -20,7 +20,7 @@ Response Format: JSON
 - Also added a extra feature for the user to save the data into csv file
   
 ## Screenshot
-<img src="https://github.com/Aniket11007/Nimesa_Assignment/blob/main/Output_Screenshot.png" alt="alt text"/> 
+<img src="https://github.com/Aniket11007/Nimesa_Assignment/blob/main/Output.png" alt="alt text"/> 
 
 
 
